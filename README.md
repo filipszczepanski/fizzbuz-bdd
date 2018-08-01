@@ -1,5 +1,5 @@
 # FizzBuzz Game with BDD
-Implementation of FizzBuzz Game based on Behavior Drive Development(BDD)
+The JavaScript implementation of FizzBuzz Game based on Behavior Drive Development(BDD)
 
 ## Install
 - install yarn and node
